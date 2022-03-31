@@ -1,0 +1,47 @@
+	/* Background colour for the Nav Bar */
+	.navhead {
+		overflow: hidden;
+		background-color: #515154;
+		margin-bottom: 0px;
+		padding-bottom:0px;
+	}
+
+	/* Style the links inside the navigation bar */
+	.navhead a  {
+		float: left;
+		color: #f2f2f2;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 17px;
+	}
+
+	/* Change the color of links on hover */
+	.navhead a:hover {
+		background-color: #111;
+	
+	}
+	
+	/* Add a color to the active/current link */
+	.navhead a.select {
+		background-color: #0437F0;
+		color: white;
+	}
+	
+	/*Add picture Borders*/
+	.pictureSpot {
+	background-color: #555;
+	}
+	
+	/*Picture Setup*/
+	.picture {
+		margin-left: 5px;
+		margin-right: 5px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		padding: 0pt;
+	}
+	/*body text style*/
+	#body {
+		font-size: 18px;
+	}
